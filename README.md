@@ -17,7 +17,7 @@ I also build tools and interfaces with Dear ImGui.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbusiveAlcoholic&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbusiveAlcoholic&layout=compact&theme=tokyonight)
 
 ---
 
