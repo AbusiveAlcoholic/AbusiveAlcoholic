@@ -1,16 +1,33 @@
-## Hi there 👋
+# Security Researcher | Reverse Engineer
 
-<!--
-**AbusiveAlcoholic/AbusiveAlcoholic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! I'm <your name>, a security researcher focused on reverse engineering, low-level systems, and deobfuscation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Expertise
+
+### Reverse Engineering
+> ### ![Binary Analysis](assets/binary-analysis.png)
+
+### Low-Level Development
+> ### ![C/C++](assets/cpp.png)
+>
+> ### ![Windows Kernel](assets/windows-kernel.png)
+
+### Deobfuscation
+> ### ![Deobfuscation](assets/deobfuscation.png)
+>
+> ### ![Packing/Unpacking](assets/packing.png)
+
+---
+
+## Interests
+- Windows Internals & Kernel Development
+- Low-Level System Programming
+
+## Let's Connect
+I'm always interested in collaborating on security research and discussing reverse engineering and system security.
+
+---
+
+"Understanding systems at their core is the key to securing them effectively."
