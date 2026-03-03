@@ -25,7 +25,7 @@ I also build tools and interfaces with Dear ImGui.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AbusiveAlcoholic&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbusiveAlcoholic&theme=tokyo-night)
 
 ---
 
