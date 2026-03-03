@@ -1,14 +1,15 @@
 # 💻 C++ Developer | 🔧 Device Driver Engineer
 
-Low-level systems developer focused on Windows internals, device drivers, and high-performance C++ tooling.
+Low-level developer working mostly with C++, Windows internals, and device drivers.  
+I also build tools and interfaces with Dear ImGui.
 
 ---
 
-## 🧠 Tech Stack
+## 🧰 What I work with
 
 ![C++](https://img.shields.io/badge/C++-Developer-blue?style=for-the-badge&logo=c%2B%2B)
-![Windows](https://img.shields.io/badge/Windows-Kernel%20Development-black?style=for-the-badge&logo=windows)
-![Dear ImGui](https://img.shields.io/badge/Dear%20ImGui-Tooling-orange?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-Kernel%20Dev-black?style=for-the-badge&logo=windows)
+![Dear ImGui](https://img.shields.io/badge/Dear%20ImGui-UI%20Tools-orange?style=for-the-badge)
 
 ---
 
@@ -20,35 +21,23 @@ Low-level systems developer focused on Windows internals, device drivers, and hi
 
 ---
 
-## 🔥 Contribution Activity
+## 🔥 Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight)
-
----
-
-## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night)
 
 ---
 
-## 👁️ Profile Visitors
+## 👁️ Visitors
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)
 
 ---
 
-## 🧰 Core Expertise
+## ⚙️ Main interests
 
-⚙️ **C++ Development**  
-High-performance native development using modern C++.
-
-🔩 **Device Driver Engineering**  
-Kernel-mode drivers and Windows system-level components.
-
-🎛️ **Dear ImGui Tooling**  
-Developer interfaces and internal debugging tools.
-
----
-
-> "Understanding systems at the lowest layer makes everything above them clearer."
+- C++ systems development  
+- Windows internals  
+- Device driver engineering  
+- Dear ImGui tooling
