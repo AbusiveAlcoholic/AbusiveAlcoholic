@@ -1,33 +1,43 @@
-# Security Researcher | Reverse Engineer
+# C++ Developer | Device Driver Engineer
 
-Welcome! I'm <your name>, a security researcher focused on reverse engineering, low-level systems, and deobfuscation.
+I focus on low-level systems programming, building performant software in C++, and developing device drivers and tooling for Windows environments.
 
 ---
 
 ### Core Expertise
 
-### Reverse Engineering
-> ### ![Binary Analysis](assets/binary-analysis.png)
+### C++ Development
+> ### ![C++ Development](assets/cpp.png)
 
-### Low-Level Development
-> ### ![C/C++](assets/cpp.png)
->
-> ### ![Windows Kernel](assets/windows-kernel.png)
+High-performance native development using modern C++.
 
-### Deobfuscation
-> ### ![Deobfuscation](assets/deobfuscation.png)
->
-> ### ![Packing/Unpacking](assets/packing.png)
+---
+
+### Device Driver Engineering
+> ### ![Driver Development](assets/drivers.png)
+
+Building and working with low-level system components and kernel-mode drivers.
+
+---
+
+### Dear ImGui Development
+> ### ![ImGui Interfaces](assets/imgui.png)
+
+Creating tools and interfaces using Dear ImGui for debugging, internal tooling, and development environments.
 
 ---
 
 ## Interests
-- Windows Internals & Kernel Development
-- Low-Level System Programming
-
-## Let's Connect
-I'm always interested in collaborating on security research and discussing reverse engineering and system security.
+- Windows Internals
+- Low-Level Systems Programming
+- Kernel Development
+- Performance Engineering
 
 ---
 
-"Understanding systems at their core is the key to securing them effectively."
+## Connect
+Open to collaborating on systems programming, driver development, and C++ tooling projects.
+
+---
+
+“Software becomes powerful when you understand the layers beneath it.”
