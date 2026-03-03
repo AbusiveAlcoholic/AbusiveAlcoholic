@@ -1,51 +1,54 @@
 # 💻 C++ Developer | 🔧 Device Driver Engineer
-![C++](https://img.shields.io/badge/C++-Developer-blue)
-![Windows](https://img.shields.io/badge/Windows-Kernel%20Development-black)
-![Dear ImGui](https://img.shields.io/badge/Dear%20ImGui-UI%20Tools-orange)
 
-I focus on low-level systems programming, building high-performance software in C++, and developing device drivers and internal tooling for Windows environments.
+Low-level systems developer focused on Windows internals, device drivers, and high-performance C++ tooling.
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 Tech Stack
 
-### ⚙️ C++ Development
-
-> ### 🧩 Native Software Engineering
-
-Building efficient, high-performance applications using modern C++.
+![C++](https://img.shields.io/badge/C++-Developer-blue?style=for-the-badge&logo=c%2B%2B)
+![Windows](https://img.shields.io/badge/Windows-Kernel%20Development-black?style=for-the-badge&logo=windows)
+![Dear ImGui](https://img.shields.io/badge/Dear%20ImGui-Tooling-orange?style=for-the-badge)
 
 ---
 
-### 🖥️ Device Driver Engineering
+## 📊 GitHub Stats
 
-> ### 🔩 Kernel & Low-Level Development
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
 
-Designing and working with kernel-mode drivers and system-level components.
-
----
-
-### 🎛️ Dear ImGui Development
-
-> ### 🧰 Developer Tools & Interfaces
-
-Creating internal tools, debugging interfaces, and custom UIs using Dear ImGui.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-## 🔬 Interests
+## 🔥 Contribution Activity
 
-* 🪟 Windows Internals
-* ⚙️ Low-Level Systems Programming
-* 🧠 Kernel Development
-* 🚀 Performance Engineering
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight)
 
 ---
 
-## 🤝 Connect
+## 📈 Contribution Graph
 
-Open to collaborating on systems programming, driver development, and C++ tooling projects.
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night)
 
 ---
 
-> *“Software becomes powerful when you understand the layers beneath it.”*
+## 👁️ Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)
+
+---
+
+## 🧰 Core Expertise
+
+⚙️ **C++ Development**  
+High-performance native development using modern C++.
+
+🔩 **Device Driver Engineering**  
+Kernel-mode drivers and Windows system-level components.
+
+🎛️ **Dear ImGui Tooling**  
+Developer interfaces and internal debugging tools.
+
+---
+
+> "Understanding systems at the lowest layer makes everything above them clearer."
